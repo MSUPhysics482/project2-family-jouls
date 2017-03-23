@@ -1,1 +1,3 @@
-Nothing to see here yet.
+## HW9; Score: 16/20
+
+Fellas, I think I have a much better picture of what you intend to do and I fully support the work. I think that one piece of feedback I would give is that maybe to try to reproduce the work from cylindrical geomtries and then extend it to a single different geometry. That has the advatange of being able to show what you have done works and then you are just trying to change the boundary conditions. Also, I might think about a specific aspect to model rather than trying to do modeling in general, so as you develop your work for next week, think about those specific aspects to narrow your focus to a particular model or set of models. Great work!
